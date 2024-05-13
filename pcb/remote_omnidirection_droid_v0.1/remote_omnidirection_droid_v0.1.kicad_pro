@@ -389,7 +389,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "DroidSymbols"
+    ]
   },
   "meta": {
     "filename": "remote_omnidirection_droid_v0.1.kicad_pro",
