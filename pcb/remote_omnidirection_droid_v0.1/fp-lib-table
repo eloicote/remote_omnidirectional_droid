@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "DroidFootprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/DroidFootprints.pretty")(options "")(descr ""))
+  (lib (name "Drone_Footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/Drone_Footprints.pretty")(options "")(descr ""))
 )
